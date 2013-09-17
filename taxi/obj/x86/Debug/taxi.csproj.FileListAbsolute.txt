@@ -1,0 +1,24 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\taxi\bin\Debug\taxi.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\taxi\bin\Debug\taxi.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\taxi\obj\x86\Debug\taxi.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\taxi\obj\x86\Debug\taxi.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\taxi\obj\x86\Debug\taxi.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\taxi\obj\x86\Debug\taxi.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\taxi\obj\x86\Debug\taxi.pdb
+C:\Users\Administrator\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.exe
+C:\Users\Administrator\Desktop\Dropbox\taxi\taxi\bin\Debug\taxi.exe
+C:\Users\Administrator\Desktop\Dropbox\taxi\taxi\bin\Debug\taxi.pdb
+C:\Users\Administrator\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.Form1.resources
+C:\Users\Administrator\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.pdb
+C:\Users\Administrator\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.csprojResolveAssemblyReference.cache
+C:\Users\TATTVAMASI\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.exe
+C:\Users\TATTVAMASI\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.pdb
+C:\Users\TATTVAMASI\Desktop\Dropbox\taxi\taxi\bin\Debug\taxi.exe
+C:\Users\TATTVAMASI\Desktop\Dropbox\taxi\taxi\bin\Debug\taxi.pdb
+C:\Users\TATTVAMASI\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TATTVAMASI\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.Form1.resources
+C:\Users\TATTVAMASI\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\taxi.Properties.Resources.resources
+C:\Users\TATTVAMASI\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TATTVAMASI\Desktop\Dropbox\taxi\taxi\obj\x86\Debug\GenerateResource.write.1.tlog
